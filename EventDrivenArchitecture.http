@@ -1,0 +1,6 @@
+@EventDrivenArchitecture_HostAddress = http://localhost:5220
+
+GET {{EventDrivenArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
